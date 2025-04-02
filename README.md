@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://i.giphy.com/4K3qIeamy4fOdzLFoa.webp" width = 300px></picture>
 
-- :school: I am a `Programming analyst Student` of INACAP
+- :school: I am a `Programming analyst Student`
 - :nerd_face: `May the force be with you`
 
 It is still under construction... 🚧👷
