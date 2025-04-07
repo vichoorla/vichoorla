@@ -2,7 +2,7 @@
   
 ## <picture><img src= "https://cdn3.emoji.gg/emojis/3081-momo-looksaround.gif" width="35px" height="35px" alt="momo_looksaround"></picture>About me
 
-<picture> <img align="right" src="https://i.giphy.com/4K3qIeamy4fOdzLFoa.webp" width = 300px></picture>
+<picture> <img align="right" src= width = 300px></picture>
 
 - :school: I am a `Programming analyst Student`
 - :nerd_face: `May the force be with you`
